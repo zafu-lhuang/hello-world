@@ -6,3 +6,5 @@ Learn to create a branch and make changes here.
 This line is added by another member.
 
 Now we have a new file, x.c, in the repo!
+
+也可以用中文书写。
